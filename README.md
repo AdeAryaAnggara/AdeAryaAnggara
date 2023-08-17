@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo Semua  
+
+Perkenalkan nama saya **Ade Arya Anggara**  
+Saya seorang mahasiswa di Perguruan Tinggi Negeri Universitas Teuku Umar
+
+
+
+
+
 
 <!--
 **AdeAryaAnggara/AdeAryaAnggara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
